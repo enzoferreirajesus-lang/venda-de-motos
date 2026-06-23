@@ -1,7 +1,6 @@
-# venda-de-motos
-conserto e venda de motos
+tecnologia e programação
+tecnologia e programação
 
-motos para venda
 
 
 
